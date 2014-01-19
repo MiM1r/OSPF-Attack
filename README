@@ -11,7 +11,7 @@ Or download the following files:
 Note:
 	You must define one LoopBack interface on the R1 router with the following specifications:
 
-IP			:	192.168.200.20
+IP		:	192.168.200.20
 SubnetMask	:	255.255.255.255
 
 
